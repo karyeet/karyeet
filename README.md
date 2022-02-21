@@ -17,5 +17,5 @@
 
 - 🔭 CS Student
 - 🌱 Learning C++
-- 🤖 I make Discord bots
+- 🤖 I make problem solving bots
 - ⭐ Mostly use **Javascript** and **C++**
