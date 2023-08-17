@@ -16,6 +16,5 @@
 <h2>About me</h2>
 
 - 🔭 CS Student
-- 🌱 Learning C++
 - 🤖 I make problem solving bots
 - ⭐ Mostly use **Javascript** and **C++**
