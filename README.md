@@ -17,4 +17,4 @@
 
 - 🔭 CS Student
 - 🤖 I make problem solving bots
-- ⭐ Mostly use **Javascript** and **C++**
+- ⭐ Mostly use **Javascript**, **Python**,  **C++**
