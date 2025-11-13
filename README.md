@@ -15,4 +15,4 @@
 
 <h2>About me</h2>
 
-- Mostly use **Javascript**, **Javascript**, **Python**, **C**
+- Mostly use **Typescript**, **C**, **Javascript**, **Python**
